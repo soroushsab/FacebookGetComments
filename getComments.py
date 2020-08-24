@@ -162,7 +162,7 @@ if __name__ == "__main__":
 
 	maxScrol = 150 # max scroll is because of that you need to scroll down to load more comments.
     
-	saveFileName = '' # filename that you want to safe the comments in it.
+	saveFileName = '' # filename that you want to save the comments in it.
 
 
 	fbc = FacebookComments(chromeDriverAddress,username,password)
